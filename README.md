@@ -2,6 +2,13 @@
 
 Criando uma Pokedex de pokemons com HTML, CSS e Javascript, e integrando com uma API - Desafio de código da DIO
 
+## Criando uma Pokedex
+
+Criando uma Pokedex com integração de API usando as tecnologias como HTML, CSS e Javascripit que aprendi no curso Front-end do Zero da Ri Happy em Parceria com a DIO.
+
+
+https://github.com/gileaddias/Criando-uma-Pokedex-DIO
+
 ### Entendendo o Desafio
  
 Entenda a importância do Git/GitHub nos Desafios de Projeto da DIO, além de explorar o mundo Pokémon através do consumo de uma API REST para a criação de uma Pokédex incrível! Para isso, você irá explorar, além do JavaScript, todos os fundamentos de desenvolvimento Web aprendidos até aqui.
